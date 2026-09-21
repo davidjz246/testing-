@@ -1,0 +1,6 @@
+{
+  "name": "Ledger Attendance and Overtime",
+  "description": "Attendance, overtime, and late arrival tracker with late warnings, permission reminders, Excel export, and light/dark theme modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
